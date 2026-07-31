@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-31T13:48:37.890Z",
+  "lastUpdated": "2026-07-31T19:14:16.442Z",
   "freeGames": [
+    {
+      "id": 2478,
+      "title": "Boots Quest DX (itch.io) Giveaway",
+      "worth": "$9.99",
+      "thumbnail": "https://www.gamerpower.com/offers/1/64cd77c7ac5fe.jpg",
+      "image": "https://www.gamerpower.com/offers/1b/64cd77c7ac5fe.jpg",
+      "description": "Download Boots Quest DX for free on itch.io! Boots Quest DX is a small adventure game with lots of puzzles and items to collect!",
+      "instructions": "1. Download directly via itch.io before the offer expires.\r\n2. It´s that easy! Enjoy the game!",
+      "open_giveaway_url": "https://www.gamerpower.com/open/boots-quest-dx-itch-io-giveaway",
+      "published_date": "2026-07-31 12:10:25",
+      "type": "Game",
+      "platforms": "PC, Itch.io",
+      "end_date": "2026-08-11 23:59:59",
+      "users": 4890,
+      "status": "Active",
+      "gamerpower_url": "https://www.gamerpower.com/boots-quest-dx-itch-io-giveaway",
+      "open_giveaway": "https://www.gamerpower.com/open/boots-quest-dx-itch-io-giveaway"
+    },
     {
       "id": 3726,
       "title": "Mutazione (Mobile) Giveaway",
@@ -14,7 +32,7 @@
       "type": "Game",
       "platforms": "Android, iOS",
       "end_date": "2026-08-06 23:59:00",
-      "users": 2830,
+      "users": 3190,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/mutazione-mobile-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/mutazione-mobile-giveaway"
@@ -32,7 +50,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-06 23:59:00",
-      "users": 9760,
+      "users": 11360,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sol-cesto-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sol-cesto-epic-games-giveaway"
@@ -50,7 +68,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-06 23:59:00",
-      "users": 9840,
+      "users": 11470,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/otxo-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/otxo-epic-games-giveaway"
@@ -68,7 +86,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 31470,
+      "users": 31710,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/bad-cat-sam-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/bad-cat-sam-pc-giveaway"
@@ -86,28 +104,10 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 77200,
+      "users": 78290,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
-    },
-    {
-      "id": 3498,
-      "title": "Primal Slideee Deluxe (Stove) Giveaway",
-      "worth": "$1.99",
-      "thumbnail": "https://www.gamerpower.com/offers/1/6993208da38c7.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/6993208da38c7.jpg",
-      "description": "Download Primal Slideee Deluxe for free via Stove until July 31!",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in to your STOVE Store account.\r\n3. Click the button \"Cart\" to add the game to your library",
-      "open_giveaway_url": "https://www.gamerpower.com/open/primal-slideee-deluxe-pc-giveaway",
-      "published_date": "2026-07-08 11:25:07",
-      "type": "Game",
-      "platforms": "PC",
-      "end_date": "2026-07-31 23:59:59",
-      "users": 31040,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/primal-slideee-deluxe-pc-giveaway",
-      "open_giveaway": "https://www.gamerpower.com/open/primal-slideee-deluxe-pc-giveaway"
     },
     {
       "id": 3306,
@@ -122,7 +122,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 104840,
+      "users": 105050,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/whiskey-mafia-frank-s-story",
       "open_giveaway": "https://www.gamerpower.com/open/whiskey-mafia-frank-s-story"
@@ -140,7 +140,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 108330,
+      "users": 108500,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/whiskey-mafia-leo-s-family-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/whiskey-mafia-leo-s-family-pc-giveaway"
@@ -158,7 +158,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-01 23:59:59",
-      "users": 162540,
+      "users": 162750,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/madness-inside-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/madness-inside-itch-io-giveaway"
@@ -176,7 +176,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-07-31 23:59:00",
-      "users": 23400,
+      "users": 23580,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/liminal-lane-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/liminal-lane-itch-io-giveaway"
@@ -194,7 +194,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-09 23:59:00",
-      "users": 84450,
+      "users": 84720,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/nightbell-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/nightbell-itch-io-giveaway"
@@ -212,7 +212,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-09 23:59:00",
-      "users": 93080,
+      "users": 93280,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dire-echo-itchio-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dire-echo-itchio-giveaway"
@@ -230,7 +230,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 125710,
+      "users": 125880,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/blacklist-mafia-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/blacklist-mafia-pc-giveaway"
@@ -248,7 +248,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-01 23:59:35",
-      "users": 14870,
+      "users": 15090,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/very-realistic-game-dev-simulator-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway"
@@ -266,7 +266,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 87050,
+      "users": 87210,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -284,7 +284,7 @@
       "type": "Game",
       "platforms": "VR",
       "end_date": "N/A",
-      "users": 124510,
+      "users": 124680,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sharknado-vr-rift-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway"
@@ -302,7 +302,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 269880,
+      "users": 270000,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
@@ -320,7 +320,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 281230,
+      "users": 281380,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dora-diginoid-metroidvania-sci-fi-adventure-game",
       "open_giveaway": "https://www.gamerpower.com/open/dora-diginoid-metroidvania-sci-fi-adventure-game"
