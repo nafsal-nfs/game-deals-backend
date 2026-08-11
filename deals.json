@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T01:10:47.893Z",
+  "lastUpdated": "2026-08-11T06:55:19.107Z",
   "freeGames": [
     {
       "id": 3741,
@@ -14,7 +14,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-15 23:59:00",
-      "users": 14530,
+      "users": 15600,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/cat-named-mojave-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/cat-named-mojave-epic-games-giveaway"
@@ -32,7 +32,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-14 23:59:00",
-      "users": 25250,
+      "users": 26380,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/happiness-market-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/happiness-market-epic-games-giveaway"
@@ -50,7 +50,7 @@
       "type": "Game",
       "platforms": "PC, Ubisoft Connect",
       "end_date": "2026-08-13 23:59:00",
-      "users": 24670,
+      "users": 25280,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/tom-clancy-s-ghost-recon-future-soldier-ubisoft-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/tom-clancy-s-ghost-recon-future-soldier-ubisoft-giveaway"
@@ -68,7 +68,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-13 23:59:00",
-      "users": 29630,
+      "users": 30540,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/spider-fox-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/spider-fox-epic-games-giveaway"
@@ -86,7 +86,7 @@
       "type": "Game",
       "platforms": "Android, iOS",
       "end_date": "2026-08-13 23:59:00",
-      "users": 8580,
+      "users": 8880,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/a-guidebook-of-babel-mobile-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/a-guidebook-of-babel-mobile-giveaway"
@@ -104,7 +104,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-13 23:59:00",
-      "users": 27690,
+      "users": 28570,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/beacon-pines-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/beacon-pines-epic-games-giveaway"
@@ -122,7 +122,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-13 23:59:00",
-      "users": 28340,
+      "users": 29390,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/we-were-here-together-epic-games-giveaway-1",
       "open_giveaway": "https://www.gamerpower.com/open/we-were-here-together-epic-games-giveaway-1"
@@ -140,7 +140,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-17 23:59:00",
-      "users": 44630,
+      "users": 45350,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/project-first-contact-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/project-first-contact-epic-games-giveaway"
@@ -158,7 +158,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io",
       "end_date": "2026-08-11 23:59:59",
-      "users": 21950,
+      "users": 22310,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/boots-quest-dx-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/boots-quest-dx-itch-io-giveaway"
@@ -176,7 +176,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 43570,
+      "users": 43900,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/bad-cat-sam-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/bad-cat-sam-pc-giveaway"
@@ -194,7 +194,7 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 119600,
+      "users": 120560,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -212,7 +212,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 116250,
+      "users": 116530,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/whiskey-mafia-frank-s-story",
       "open_giveaway": "https://www.gamerpower.com/open/whiskey-mafia-frank-s-story"
@@ -230,7 +230,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 119620,
+      "users": 119940,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/whiskey-mafia-leo-s-family-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/whiskey-mafia-leo-s-family-pc-giveaway"
@@ -248,7 +248,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 137160,
+      "users": 137470,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/blacklist-mafia-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/blacklist-mafia-pc-giveaway"
@@ -266,7 +266,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-22 23:59:35",
-      "users": 28440,
+      "users": 28970,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/very-realistic-game-dev-simulator-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway"
@@ -284,7 +284,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 97940,
+      "users": 98230,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -302,7 +302,7 @@
       "type": "Game",
       "platforms": "VR",
       "end_date": "N/A",
-      "users": 134230,
+      "users": 134450,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sharknado-vr-rift-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway"
@@ -320,7 +320,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 281250,
+      "users": 281480,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
@@ -338,7 +338,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 293220,
+      "users": 293530,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dora-diginoid-metroidvania-sci-fi-adventure-game",
       "open_giveaway": "https://www.gamerpower.com/open/dora-diginoid-metroidvania-sci-fi-adventure-game"
