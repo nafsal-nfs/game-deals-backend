@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T18:19:02.542Z",
+  "lastUpdated": "2026-08-23T00:55:15.660Z",
   "freeGames": [
     {
       "id": 3754,
@@ -14,7 +14,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-27 23:59:00",
-      "users": 17670,
+      "users": 19270,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/bolmn-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/bolmn-epic-games-giveaway"
@@ -32,7 +32,7 @@
       "type": "Game",
       "platforms": "Android, iOS",
       "end_date": "2026-08-27 23:59:00",
-      "users": 4390,
+      "users": 4750,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/caravan-sandwitch-mobile-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/caravan-sandwitch-mobile-giveaway"
@@ -50,28 +50,10 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-27 23:59:00",
-      "users": 17670,
+      "users": 19140,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/cardpocalypse-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/cardpocalypse-epic-games-giveaway"
-    },
-    {
-      "id": 3750,
-      "title": "Grow And Go: Cozy Deliveries (Epic Games) Giveaway",
-      "worth": "$4.99",
-      "thumbnail": "https://www.gamerpower.com/offers/1/6a863f21649e6.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/6a863f21649e6.jpg",
-      "description": "Check out this cozy giveaway! Download Grow And Go: Cozy Deliveries for free via Epic Games Store! Grow And Go: Cozy Deliveries is a 3d cozy delivery and farming game.",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Register or log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library",
-      "open_giveaway_url": "https://www.gamerpower.com/open/grow-and-go-cozy-deliveries-epic-games-giveaway",
-      "published_date": "2026-08-19 19:41:21",
-      "type": "Game",
-      "platforms": "PC, Epic Games Store",
-      "end_date": "2026-08-22 23:59:00",
-      "users": 23850,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/grow-and-go-cozy-deliveries-epic-games-giveaway",
-      "open_giveaway": "https://www.gamerpower.com/open/grow-and-go-cozy-deliveries-epic-games-giveaway"
     },
     {
       "id": 3313,
@@ -86,28 +68,10 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 31380,
+      "users": 31810,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/wordle-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/wordle-pc-giveaway"
-    },
-    {
-      "id": 3747,
-      "title": "Rabbit in Dungeon (Stove) Giveaway",
-      "worth": "$3.99",
-      "thumbnail": "https://www.gamerpower.com/offers/1/6a7fb937e6dac.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/6a7fb937e6dac.jpg",
-      "description": "Grab Rabbit in Dungeon for free via Stove. Rabbit in Dungeon is a 3D platformer about… you guessed it, a little rabbit escaping a dungeon!",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Login into your STOVE Store account.\r\n3. Click the button \"Cart\" to add the game to your library",
-      "open_giveaway_url": "https://www.gamerpower.com/open/rabbit-in-dungeon-stove-giveaway",
-      "published_date": "2026-08-14 20:56:24",
-      "type": "Game",
-      "platforms": "PC",
-      "end_date": "2026-08-22 23:59:00",
-      "users": 13570,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/rabbit-in-dungeon-stove-giveaway",
-      "open_giveaway": "https://www.gamerpower.com/open/rabbit-in-dungeon-stove-giveaway"
     },
     {
       "id": 3742,
@@ -122,7 +86,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-08-31 23:59:00",
-      "users": 57750,
+      "users": 59230,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/targeted-10-days-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/targeted-10-days-epic-games-giveaway"
@@ -140,7 +104,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 57000,
+      "users": 57340,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/bad-cat-sam-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/bad-cat-sam-pc-giveaway"
@@ -158,7 +122,7 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 171050,
+      "users": 172290,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -176,7 +140,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 129210,
+      "users": 129470,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/whiskey-mafia-frank-s-story",
       "open_giveaway": "https://www.gamerpower.com/open/whiskey-mafia-frank-s-story"
@@ -194,7 +158,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 132390,
+      "users": 132700,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/whiskey-mafia-leo-s-family-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/whiskey-mafia-leo-s-family-pc-giveaway"
@@ -212,7 +176,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-31 23:59:00",
-      "users": 110590,
+      "users": 110900,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/nightbell-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/nightbell-itch-io-giveaway"
@@ -230,7 +194,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-31 23:59:00",
-      "users": 119160,
+      "users": 119420,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dire-echo-itchio-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dire-echo-itchio-giveaway"
@@ -248,7 +212,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 150200,
+      "users": 150590,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/blacklist-mafia-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/blacklist-mafia-pc-giveaway"
@@ -266,7 +230,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io",
       "end_date": "2026-08-31 23:59:00",
-      "users": 23980,
+      "users": 24330,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/forget-me-not-itchio-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/forget-me-not-itchio-giveaway"
@@ -283,8 +247,8 @@
       "published_date": "2026-02-16 09:50:41",
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
-      "end_date": "2026-08-22 23:59:35",
-      "users": 44490,
+      "end_date": "2026-08-29 23:59:35",
+      "users": 44900,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/very-realistic-game-dev-simulator-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway"
@@ -302,7 +266,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-28 23:59:00",
-      "users": 19610,
+      "users": 20010,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/cherophobia-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/cherophobia-itch-io-giveaway"
@@ -320,7 +284,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 109840,
+      "users": 110220,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -338,7 +302,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-08-28 23:59:00",
-      "users": 23730,
+      "users": 24060,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway"
@@ -356,7 +320,7 @@
       "type": "Game",
       "platforms": "VR",
       "end_date": "N/A",
-      "users": 143120,
+      "users": 143360,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sharknado-vr-rift-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway"
@@ -374,7 +338,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 293580,
+      "users": 293940,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
