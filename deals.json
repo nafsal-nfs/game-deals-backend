@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-10-19T11:46:50.203Z",
+  "lastUpdated": "2026-10-19T18:07:08.287Z",
   "freeGames": [
+    {
+      "id": 3331,
+      "title": "Last Room (IndieGala) Giveaway",
+      "worth": "$29.99",
+      "thumbnail": "https://www.gamerpower.com/offers/1/68f91bd81c328.jpg",
+      "image": "https://www.gamerpower.com/offers/1b/68f91bd81c328.jpg",
+      "description": "Dive into a world of puzzles today! Download Last Room for free on IndieGala! Last Room is a 3d puzzle game with interactive environments, medieval mysteries and secret levels.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Login into your free IndieGala account.\r\n3. Scroll down and click the \"Add to Your Library\" button to add the game to your library.\r\n4. Go to \"My Library\" to find your game.",
+      "open_giveaway_url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
+      "published_date": "2026-10-19 11:58:10",
+      "type": "Game",
+      "platforms": "PC, DRM-Free",
+      "end_date": "N/A",
+      "users": 25040,
+      "status": "Active",
+      "gamerpower_url": "https://www.gamerpower.com/last-room-pc-giveaway",
+      "open_giveaway": "https://www.gamerpower.com/open/last-room-pc-giveaway"
+    },
+    {
+      "id": 3820,
+      "title": "GetHigh.EXE (Epic Games) Giveaway",
+      "worth": "$1.99",
+      "thumbnail": "https://www.gamerpower.com/offers/1/6ad63cd807641.jpg",
+      "image": "https://www.gamerpower.com/offers/1b/6ad63cd807641.jpg",
+      "description": "Claim GetHigh.EXE for free via Epic Games Store! GetHigh.EXE is a casual 3d parkour game where you run and jump through an obstacle course to reach the top.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library",
+      "open_giveaway_url": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway",
+      "published_date": "2026-10-19 11:52:56",
+      "type": "Game",
+      "platforms": "PC, Epic Games Store",
+      "end_date": "2026-11-02 23:59:00",
+      "users": 3100,
+      "status": "Active",
+      "gamerpower_url": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
+      "open_giveaway": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway"
+    },
     {
       "id": 3100,
       "title": "The Black Within (itch.io) Giveaway",
@@ -14,7 +50,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-10-24 23:59:59",
-      "users": 39570,
+      "users": 40610,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway"
@@ -32,7 +68,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-10-29 23:59:00",
-      "users": 17760,
+      "users": 18740,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/the-green-light-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway"
@@ -50,7 +86,7 @@
       "type": "Game",
       "platforms": "PC, Android, iOS, Epic Games Store",
       "end_date": "2026-10-22 23:59:00",
-      "users": 31140,
+      "users": 33270,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/agent-a-a-puzzle-in-disguise-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/agent-a-a-puzzle-in-disguise-epic-games-giveaway"
@@ -68,7 +104,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-10-22 23:59:00",
-      "users": 30530,
+      "users": 32490,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/bad-cheese-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/bad-cheese-epic-games-giveaway"
@@ -86,7 +122,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 95400,
+      "users": 96020,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/best-plumber-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/best-plumber-pc-giveaway"
@@ -104,7 +140,7 @@
       "type": "Game",
       "platforms": "Android, iOS",
       "end_date": "2026-10-24 23:59:00",
-      "users": 63780,
+      "users": 64120,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/castlevania-40th-anniversary-mobile-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway"
@@ -122,7 +158,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 104250,
+      "users": 104840,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sausage-hunter-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway"
@@ -140,7 +176,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 158800,
+      "users": 159440,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/battle-ram-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/battle-ram-pc-giveaway"
@@ -158,7 +194,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 171040,
+      "users": 171680,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/leaper-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/leaper-pc-giveaway"
@@ -176,7 +212,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 189520,
+      "users": 190110,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/wordle-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/wordle-pc-giveaway"
@@ -194,7 +230,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 204300,
+      "users": 204930,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/bad-cat-sam-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/bad-cat-sam-pc-giveaway"
@@ -212,7 +248,7 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 572980,
+      "users": 574710,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -230,7 +266,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "2026-10-31 23:59:59",
-      "users": 98960,
+      "users": 99490,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/primal-slideee-deluxe-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/primal-slideee-deluxe-pc-giveaway"
@@ -248,7 +284,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 231940,
+      "users": 232500,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -266,7 +302,7 @@
       "type": "Game",
       "platforms": "VR",
       "end_date": "N/A",
-      "users": 239150,
+      "users": 239580,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sharknado-vr-rift-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway"
@@ -284,7 +320,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 433940,
+      "users": 434490,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
