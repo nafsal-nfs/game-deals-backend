@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-01T12:28:09.801Z",
+  "lastUpdated": "2026-11-01T21:34:02.892Z",
   "freeGames": [
+    {
+      "id": 3839,
+      "title": "Epic World - Hunt For Quest (Epic Games) Giveaway",
+      "worth": "$6.99",
+      "thumbnail": "https://www.gamerpower.com/offers/1/6ae74d1a29ca6.jpg",
+      "image": "https://www.gamerpower.com/offers/1b/6ae74d1a29ca6.jpg",
+      "description": "Save 100% on Claim Epic World - Hunt For Quest via Epic Games Store! Epic World is a 2d platformer action game with hidden treasures and dangerous enemies.",
+      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library",
+      "open_giveaway_url": "https://www.gamerpower.com/open/epic-world-hunt-for-quest-epic-games-giveaway",
+      "published_date": "2026-11-01 09:30:50",
+      "type": "Game",
+      "platforms": "PC, Epic Games Store",
+      "end_date": "2026-11-08 23:59:00",
+      "users": 3970,
+      "status": "Active",
+      "gamerpower_url": "https://www.gamerpower.com/epic-world-hunt-for-quest-epic-games-giveaway",
+      "open_giveaway": "https://www.gamerpower.com/open/epic-world-hunt-for-quest-epic-games-giveaway"
+    },
     {
       "id": 3838,
       "title": "Gladiator: Blades of Fury (Epic Games) Giveaway",
@@ -14,7 +32,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-11-08 23:59:00",
-      "users": 5890,
+      "users": 8230,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gladiator-blades-of-fury-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gladiator-blades-of-fury-epic-games-giveaway"
@@ -32,7 +50,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-11-08 23:59:00",
-      "users": 5150,
+      "users": 7320,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/quiztopia-the-ultimate-trivia-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/quiztopia-the-ultimate-trivia-epic-games-giveaway"
@@ -50,7 +68,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 27720,
+      "users": 29930,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/my-darkest-witch-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway"
@@ -68,7 +86,7 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "2026-11-02 23:59:00",
-      "users": 18520,
+      "users": 21840,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/asleep-act-1-steam-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/asleep-act-1-steam-giveaway"
@@ -86,7 +104,7 @@
       "type": "Game",
       "platforms": "PC, GOG, DRM-Free",
       "end_date": "2026-11-02 23:59:00",
-      "users": 16180,
+      "users": 18970,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/a-new-beginning-final-cut-gog-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/a-new-beginning-final-cut-gog-giveaway"
@@ -104,7 +122,7 @@
       "type": "Game",
       "platforms": "Android, iOS",
       "end_date": "2026-11-05 23:59:00",
-      "users": 10680,
+      "users": 11220,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/galaxy-kart-mobile-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/galaxy-kart-mobile-giveaway"
@@ -122,7 +140,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-11-05 23:59:00",
-      "users": 27470,
+      "users": 28480,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sorry-we-re-closed-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sorry-we-re-closed-epic-games-giveaway"
@@ -140,7 +158,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-22 23:59:00",
-      "users": 29270,
+      "users": 31430,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/free-itch-io-games-bundle",
       "open_giveaway": "https://www.gamerpower.com/open/free-itch-io-games-bundle"
@@ -158,7 +176,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-04 23:59:00",
-      "users": 24990,
+      "users": 27210,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/molokaust-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/molokaust-itch-io-giveaway"
@@ -176,7 +194,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-03 23:59:00",
-      "users": 24660,
+      "users": 26720,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/octane100-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/octane100-itch-io-giveaway"
@@ -194,7 +212,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-04 23:59:00",
-      "users": 24320,
+      "users": 26300,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/heirloom-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/heirloom-itch-io-giveaway"
@@ -212,7 +230,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 52400,
+      "users": 54280,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/ancient-evil-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway"
@@ -230,7 +248,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-11-01 23:59:00",
-      "users": 56260,
+      "users": 57360,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/mafia-hotel-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/mafia-hotel-epic-games-giveaway"
@@ -248,7 +266,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 88890,
+      "users": 90870,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/last-room-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/last-room-pc-giveaway"
@@ -266,46 +284,10 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-11-02 23:59:00",
-      "users": 87840,
+      "users": 88810,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway"
-    },
-    {
-      "id": 3100,
-      "title": "The Black Within (itch.io) Giveaway",
-      "worth": "$5.99",
-      "thumbnail": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/67cb0e32bf51c.jpg",
-      "description": "Download The Black Within for free via itch.io! The Black Within is a single-player first-person psychological game with creepy atmosphere and puzzles. Check it out!",
-      "instructions": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game.",
-      "open_giveaway_url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway",
-      "published_date": "2026-10-17 16:59:24",
-      "type": "Game",
-      "platforms": "PC, Itch.io, DRM-Free",
-      "end_date": "2026-10-31 23:59:59",
-      "users": 109270,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/the-black-within-itch-io-giveaway",
-      "open_giveaway": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway"
-    },
-    {
-      "id": 3690,
-      "title": "The Green Light (itch.io) Giveaway",
-      "worth": "$9.99",
-      "thumbnail": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/6a369af2d25aa.jpg",
-      "description": "Download The Green Light for free via itch.io. The Green Light is a indie first person game with a creepy atmosphere. Check it out!",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Download or Claim\" before the offer expires.\r\n3. Login into your itch.io account to access the game.",
-      "open_giveaway_url": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway",
-      "published_date": "2026-10-17 16:55:46",
-      "type": "Game",
-      "platforms": "PC, Itch.io, DRM-Free",
-      "end_date": "2026-10-31 23:59:00",
-      "users": 88290,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/the-green-light-itch-io-giveaway",
-      "open_giveaway": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway"
     },
     {
       "id": 3328,
@@ -320,28 +302,10 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 156480,
+      "users": 158440,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/best-plumber-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/best-plumber-pc-giveaway"
-    },
-    {
-      "id": 3792,
-      "title": "Castlevania: 40th Anniversary (Mobile) Giveaway",
-      "worth": "N/A",
-      "thumbnail": "https://www.gamerpower.com/offers/1/6ab6470a4ddf0.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/6ab6470a4ddf0.jpg",
-      "description": "Celebrate Castlevania’s 40th Anniversary and claim the original NES classic for free on the App Store and Google Play until October 24.",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via App Store and Google Play before the offer expires.\r\n3. That´s it! Have fun!",
-      "open_giveaway_url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway",
-      "published_date": "2026-09-25 06:03:54",
-      "type": "Game",
-      "platforms": "Android, iOS",
-      "end_date": "2026-10-24 23:59:00",
-      "users": 85830,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/castlevania-40th-anniversary-mobile-giveaway",
-      "open_giveaway": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway"
     },
     {
       "id": 3322,
@@ -356,7 +320,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 163890,
+      "users": 165760,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sausage-hunter-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway"
@@ -374,7 +338,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-10-31 23:59:00",
-      "users": 36020,
+      "users": 37770,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/liminal-space-holiday-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/liminal-space-holiday-itch-io-giveaway"
@@ -392,7 +356,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 217600,
+      "users": 219570,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/battle-ram-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/battle-ram-pc-giveaway"
@@ -410,7 +374,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 230600,
+      "users": 232630,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/leaper-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/leaper-pc-giveaway"
@@ -428,7 +392,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 249080,
+      "users": 251010,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/wordle-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/wordle-pc-giveaway"
@@ -446,7 +410,7 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 689630,
+      "users": 692330,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -464,7 +428,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-10-31 23:59:00",
-      "users": 64410,
+      "users": 66430,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sleep-demon-itchio-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sleep-demon-itchio-giveaway"
@@ -482,7 +446,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-10-31 23:59:00",
-      "users": 46400,
+      "users": 48480,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/liminal-lane-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/liminal-lane-itch-io-giveaway"
@@ -500,7 +464,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-05 23:59:35",
-      "users": 143290,
+      "users": 145060,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/very-realistic-game-dev-simulator-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway"
@@ -518,7 +482,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-05 23:59:00",
-      "users": 119840,
+      "users": 121820,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/cherophobia-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/cherophobia-itch-io-giveaway"
@@ -536,7 +500,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 290400,
+      "users": 291880,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -554,7 +518,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-05 23:59:00",
-      "users": 123720,
+      "users": 125750,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway"
@@ -572,7 +536,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-04 23:59:59",
-      "users": 40970,
+      "users": 43090,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/assassin-at-crimson-keep",
       "open_giveaway": "https://www.gamerpower.com/open/assassin-at-crimson-keep"
@@ -590,7 +554,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-05 23:59:59",
-      "users": 35640,
+      "users": 37650,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/project-malice-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/project-malice-itch-io-giveaway"
@@ -608,7 +572,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-05 23:59:59",
-      "users": 35770,
+      "users": 37840,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/buckler-2-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/buckler-2-itch-io-giveaway"
@@ -626,7 +590,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-05 23:59:59",
-      "users": 42720,
+      "users": 44690,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/roseblight",
       "open_giveaway": "https://www.gamerpower.com/open/roseblight"
@@ -644,7 +608,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "2026-11-05 23:59:00",
-      "users": 31450,
+      "users": 33350,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/solace-inc-itchio-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/solace-inc-itchio-giveaway"
@@ -662,7 +626,7 @@
       "type": "Game",
       "platforms": "VR",
       "end_date": "N/A",
-      "users": 291960,
+      "users": 293660,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sharknado-vr-rift-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway"
@@ -680,7 +644,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 496270,
+      "users": 498230,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
