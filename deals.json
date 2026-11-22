@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T13:53:14.379Z",
+  "lastUpdated": "2026-11-22T23:03:39.008Z",
   "freeGames": [
     {
       "id": 3854,
@@ -14,7 +14,7 @@
       "type": "Game",
       "platforms": "Android, iOS",
       "end_date": "2026-11-26 23:59:00",
-      "users": 6880,
+      "users": 7470,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/lonesome-village-mobile-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/lonesome-village-mobile-giveaway"
@@ -32,7 +32,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-11-26 23:59:00",
-      "users": 13930,
+      "users": 15270,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/mark-of-the-deep-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/mark-of-the-deep-epic-games-giveaway"
@@ -50,7 +50,7 @@
       "type": "Game",
       "platforms": "PC, Epic Games Store",
       "end_date": "2026-12-02 23:59:00",
-      "users": 26390,
+      "users": 27750,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/contractor-the-clean-up-part-2-epic-games-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/contractor-the-clean-up-part-2-epic-games-giveaway"
@@ -68,28 +68,10 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 132690,
+      "users": 134770,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/my-darkest-witch-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway"
-    },
-    {
-      "id": 3830,
-      "title": "Free itch.io Games Bundle",
-      "worth": "$384.00",
-      "thumbnail": "https://www.gamerpower.com/offers/1/6ae264e50edb5.jpg",
-      "image": "https://www.gamerpower.com/offers/1b/6ae264e50edb5.jpg",
-      "description": "Claim this bundle (worth $384) and download 116 games for free on itch.io! No strings attached!",
-      "instructions": "1. Click the button to visit the giveaway page.\r\n2. Click the button \"Get the Bundle\" before the offer expires.\r\n3. Click the link \"No thanks, just take me to the downloads\".\r\n4. Have fun!",
-      "open_giveaway_url": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
-      "published_date": "2026-10-28 17:11:01",
-      "type": "Game",
-      "platforms": "PC, Itch.io, DRM-Free",
-      "end_date": "2026-11-22 23:59:00",
-      "users": 143960,
-      "status": "Active",
-      "gamerpower_url": "https://www.gamerpower.com/free-itch-io-games-bundle",
-      "open_giveaway": "https://www.gamerpower.com/open/free-itch-io-games-bundle"
     },
     {
       "id": 3340,
@@ -104,7 +86,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 153220,
+      "users": 155390,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/ancient-evil-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway"
@@ -122,7 +104,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 188370,
+      "users": 190550,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/last-room-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/last-room-pc-giveaway"
@@ -140,7 +122,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 257500,
+      "users": 259770,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/best-plumber-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/best-plumber-pc-giveaway"
@@ -158,7 +140,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 262780,
+      "users": 264820,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sausage-hunter-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway"
@@ -176,7 +158,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 316690,
+      "users": 318920,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/battle-ram-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/battle-ram-pc-giveaway"
@@ -194,7 +176,7 @@
       "type": "Game",
       "platforms": "PC, DRM-Free",
       "end_date": "N/A",
-      "users": 330360,
+      "users": 332530,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/leaper-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/leaper-pc-giveaway"
@@ -212,7 +194,7 @@
       "type": "Game",
       "platforms": "PC, Steam",
       "end_date": "N/A",
-      "users": 835020,
+      "users": 838190,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway"
@@ -230,7 +212,7 @@
       "type": "Game",
       "platforms": "PC",
       "end_date": "N/A",
-      "users": 384110,
+      "users": 386080,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -248,7 +230,7 @@
       "type": "Game",
       "platforms": "VR",
       "end_date": "N/A",
-      "users": 378030,
+      "users": 380230,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/sharknado-vr-rift-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway"
@@ -266,7 +248,7 @@
       "type": "Game",
       "platforms": "PC, Itch.io, DRM-Free",
       "end_date": "N/A",
-      "users": 591860,
+      "users": 594250,
       "status": "Active",
       "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
       "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
